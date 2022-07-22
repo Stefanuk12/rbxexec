@@ -1,0 +1,21 @@
+{
+  "name": "rbxexec",
+  "version": "1.0.0",
+  "description": "Execute and control your Roblox exploit from the command line",
+  "main": "./lib/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefanuk12",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.0",
+    "got": "^12.1.0",
+    "websocket-as-promised": "^2.0.1",
+    "ws": "^8.8.1"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.3"
+  }
+}
