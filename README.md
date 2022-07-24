@@ -2,7 +2,7 @@
 Execute and control your Roblox exploit from the command line. This mainly supports Synapse but it is possible to add support for other exploits. The only issue is how attaching is going to work.
 
 ## Usage
-```bash
+```
 Usage: rbxexec [options] [command]
 
 Execute and control your Roblox exploit from the command line

@@ -1,6 +1,6 @@
 {
   "name": "rbxexec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Execute and control your Roblox exploit from the command line",
   "main": "./lib/index.js",
   "type": "module",
@@ -17,5 +17,8 @@
   },
   "devDependencies": {
     "@types/ws": "^8.5.3"
+  },
+  "bin": {
+    "rbxexec": "./lib/index.js"
   }
 }
